@@ -2,10 +2,15 @@
 Proyecto de Materia de Machine Learning no Supervisado [MLS629] - Cohorte I - 2025
 
 ## Integrantes
+
 Alfredo Argueta Interiano - AI252944
+
 Giovanni Alexander Escobar - EM252920
+
 Ivo Luis Orellana Girón - OG252913
+
 Marlon Alexander Palacios Díaz - PD252876
+
 José Rodrigo López Torres - LT170438
 
 
